@@ -3,15 +3,17 @@
 <html>
   <head>
     <title>{{.title}}</title>
+   
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" type="text/css" href="/public/css/bootstrap-3.3.6.min.css">
-    <link rel="shortcut icon" type="image/png" href="/public/img/favicon.png">
-    <script src="/public/js/jquery-2.2.4.min.js"></script>
-    <script src="/public/js/bootstrap-3.3.6.min.js"></script>
-    {{range .moreStyles}}
-      <link rel="stylesheet" type="text/css" href="/public/{{.}}">
-    {{end}}
+    <link rel="stylesheet" href="/public/plugins/commingsoon/css/animate.css">
+    <!-- Icomoon Icon Fonts-->
+    <link rel="stylesheet" href="/public/plugins/commingsoon/css/icomoon.css">
+    <!-- Bootstrap  -->
+    <link rel="stylesheet" href="/public/plugins/commingsoon/css/bootstrap.css">
+    <!-- Theme style  -->
+    <link rel="stylesheet" href="/public/plugins/commingsoon/css/style.css">
+    
     {{range .moreScripts}}
       <script src="/public/{{.}}" type="text/javascript" charset="utf-8"></script>
     {{end}}
