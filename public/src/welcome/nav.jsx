@@ -8,7 +8,7 @@ export default function GridMenuItem() {
             <div className="container">
             <div className="row">
                 <div className="col-xs-12 text-center">
-                <div id="fh5co-logo"><a href="index.html">Launch<strong>.</strong></a></div>
+                <div id="fh5co-logo"><a href="http://infolokal.id">Launch<strong>.</strong></a></div>
                 </div>
             </div>
             </div>

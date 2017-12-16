@@ -18,7 +18,7 @@ export default function Header() {
                    <div className="display-t">
                        <div className="display-tc animate-box" data-animate-effect="fadeIn">
                            <h1>We Are Coming Very Soon!</h1>
-                           <h2>Free html5 templates Made by <a href="http://freehtml5.co/" target="_blank">freehtml5.co</a></h2>
+                           <h2>Made by <a href="http://infolokal.id/" target="_blank">infolokal.id</a></h2>
                            <div className="simply-countdown simply-countdown-one"></div>
                            <div className="row">
                                <h2>Notify me when it's ready</h2>

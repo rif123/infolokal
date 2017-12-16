@@ -11,8 +11,9 @@ export default function Footer() {
                 <div className="row copyright">
                     <div className="col-md-12 text-center">
                         <p>
-                            <small className="block">&copy; 2016 Free HTML5. All Rights Reserved.</small> 
-                            <small className="block">Designed by <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> Demo Images: <a href="http://unsplash.co/" target="_blank">Unsplash</a></small>
+                            <small className="block">&copy; 2017. All Rights Reserved.</small> 
+                            <small className="block">Designed by <a href="http://infolokal.id/" target="_blank">infolokal.id</a> Demo Images: 
+                            <a href="http://infolokal.id/" target="_blank">Unsplash</a></small>
                         </p>
                         <p>
                             <ul className="fh5co-social-icons">
